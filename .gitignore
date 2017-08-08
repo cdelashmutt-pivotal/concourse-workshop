@@ -2,3 +2,5 @@ ci/credentials.yml
 .DS_Store
 target
 **/.DS_Store
+.idea/
+/concourse-demo.iml
